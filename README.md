@@ -1,4 +1,4 @@
-# HyePyDesktopLock
+# HuePyDesktopLock
 
 Initial draft.
 
