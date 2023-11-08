@@ -1,4 +1,4 @@
-from HuePyDesktopLock import *
+from HueDesktopLock import *
 
 hue = PhilipsHue(bridge_address = "192.168.0.6", # change to your bridge IP
                 lights = [15, 16, 17]) # see module documentation https://github.com/studioimaginaire/phue
